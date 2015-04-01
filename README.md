@@ -21,7 +21,11 @@ internal Meteor files
 
 To run the newly created app:
 
-cd basic
-meteor
+#####cd basic
+#####meteor
 
 Open http://localhost:3000 in your web browser.
+
+See mongo console
+
+meteor mongo
