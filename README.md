@@ -8,7 +8,7 @@ To create a Meteor app, open your terminal and type:
 
 #### meteor create basic
 
-This will create a new folder called simple-todos with all of the files that a Meteor app needs:
+This will create a new folder called basic with all of the files that a Meteor app needs:
 
 #####basic.js
 a JavaScript file loaded on both client and server
